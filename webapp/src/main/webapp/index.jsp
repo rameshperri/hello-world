@@ -12,7 +12,6 @@
       id="Name"
       required
     />
-    <br />
 
     <label for="mobile"><b>Enter mobile</b></label>
     <input
