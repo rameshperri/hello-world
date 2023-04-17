@@ -14,10 +14,10 @@
     />
     <br />
 
-    <label for="mobile"><b>Enter mobile</b></label>
+    <label for="mobile"><b>Enter Your mobile</b></label>
     <input
       type="text"
-      placeholder="Enter Mobile Number"
+      placeholder="Enter Your Mobile Number"
       name="mobile"
       id="mobile"
       required
