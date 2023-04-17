@@ -17,7 +17,7 @@
     <label for="mobile"><b>Enter mobile</b></label>
     <input
       type="text"
-      placeholder="Enter moible number"
+      placeholder="Enter Mobile Number"
       name="mobile"
       id="mobile"
       required
